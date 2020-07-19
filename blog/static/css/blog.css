@@ -35,3 +35,16 @@ h1, h2, h3, h4 {
 }
 
 
+.save {
+    float: right;
+}
+
+.post-form textarea, .post-form input {
+    width: 100%;
+}
+.top_menu, .top_menu:hover, .top_menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
